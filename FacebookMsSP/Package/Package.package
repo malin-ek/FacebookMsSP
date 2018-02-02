@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="bfb1d3f5-0f27-475a-8c5c-64bd4016cfac" 
+        solutionId="bfb1d3f5-0f27-475a-8c5c-64bd4016cfac" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="FacebookMsSP"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="6e4481dd-2f2c-4d4c-babe-71d6aae2b7f6" />
+  </features>
+</package>
