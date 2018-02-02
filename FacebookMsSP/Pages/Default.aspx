@@ -28,10 +28,7 @@
 <asp:Content ContentPlaceHolderID="PlaceHolderMain" runat="server">
 
     <div>
-        <p id="message">
-            <!-- The following content will be replaced with the user name when you run the app - see App.js -->
-            initializing...
-        </p>
+       <div class="fb-page" data-href="https://www.facebook.com/MSSharePoint/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/MSSharePoint/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/MSSharePoint/">Microsoft SharePoint</a></blockquote></div>
     </div>
 
 </asp:Content>
